@@ -2,6 +2,8 @@
 - I'm a full Stack web developer
 - 👀 I’m interested in .NET Core and Angular 13
 
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=karim-chakroun&label=Profile%20views&color=0e75b6&style=plastic" alt="karim-chakroun" /> </p>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karim-chakroun&show_icons=true)
